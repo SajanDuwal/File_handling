@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FileHandling</string>
+    <string name="btn_ReadExternalStoragePublic">ReadExternalStoragePublic</string>
+    <string name="btn_ReadExternalStoragePrivate">ReadExternalStoragePrivate</string>
+    <string name="btn_ReadInternalStorage">ReadInternalStorage</string>
+    <string name="btn_WriteToFile">Write To file</string>
+    <string name="btn_ReadFromFile">ReadFromFile</string>
+</resources>
